@@ -25,5 +25,5 @@
 </p>
 
 <a href="https://github.com/GustavoHeimburg/Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavoHeimburg&repo=Website&theme=onedarnk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavoHeimburg&repo=Website&theme=onedark" />
 </a>
