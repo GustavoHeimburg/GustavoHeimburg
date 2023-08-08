@@ -19,6 +19,7 @@
 <p align="center">
   <br><br>
   <a href="https://github.com/GustavoHeimburg"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
+  <img src="https://c.tenor.com/tlP1gAvWPmAAAAAC/kono-suba-anime.gif" align="top">
 </p>
 
  
