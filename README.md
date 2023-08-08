@@ -3,11 +3,14 @@
 <div style="display: inline-block">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=onedark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&theme=onedark&hide_border=true" />
+
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Guste.heimp)
 [![Youtube](	https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UC_PXfmAnpPU1jAI4pQkvNog)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/gustavo-heimburg-pereira)
+![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 # Languages
 <div style="display: inline_block">
