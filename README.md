@@ -24,3 +24,6 @@
   <a href="https://github.com/GustavoHeimburg"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
 </p>
 
+<a href="https://github.com/GustavoHeimburg/Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavoHeimburg&repo=Website&theme=onedarnk" />
+</a>
