@@ -27,6 +27,17 @@
 
 ***
 
+***
+
+IDEA´s for programming
+<div  
+<img align="center" alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img align="left" alt="VScode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  
+  </div>
+
+***
+
 <p align="left">
   <br><br>
   <a href="https://github.com/GustavoHeimburg"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
