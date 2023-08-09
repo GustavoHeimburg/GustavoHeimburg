@@ -6,7 +6,7 @@
 
 <br><br>
 </div>
-<h2>my networks</h2> 
+<h2>My networks</h2> 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Guste.heimp)
 [![Youtube](	https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UC_PXfmAnpPU1jAI4pQkvNog)
