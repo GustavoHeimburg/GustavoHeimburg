@@ -38,12 +38,11 @@
 <p align="left">
   <br><br>
   <a href="https://github.com/GustavoHeimburg"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
+  <img align="center" style="position: relative; top: -40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="400" align="right" alt="gif animado"></a>
 </p>
 
-<a href="https://github.com/GustavoHeimburg/Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavoHeimburg&repo=Website&theme=onedark" />
-</a>
-  <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="350" align="right" alt="gif animado"></a>
+</div>
+<br><br>
 
 </div>
 <br><br>
