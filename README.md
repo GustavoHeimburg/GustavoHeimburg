@@ -65,4 +65,5 @@
 
 </div>
 <br><br>
+
 ![Snake animation](https://github.com/GustavoHeimburg/GustavoHeimburg/blob/output/github-contribution-grid-snake.svg)
