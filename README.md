@@ -36,6 +36,23 @@
   
 </div>
 
+***
+
+<h2>gaming platform</h2>
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+  <img align="center" alt="spring" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
+</div>
+  
+    
+</div>
+
+***
+
 <p align="left">
   <br><br>
   <a href="https://github.com/GustavoHeimburg"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
