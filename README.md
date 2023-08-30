@@ -1,11 +1,14 @@
 # Welcome to my git profile
 
-<div style="display: inline-block">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=onedark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&theme=onedark&hide_border=true" />
-  <p align="left">
-  <br><br>
-  <a href="https://github.com/GustavoHeimburg"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&theme=onedark&hide_border=true" />
+</div>
+<br><br>
+<a href="https://github.com/GustavoHeimburg" style="margin-top: 20px;"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" width=45%"></a>
+</p>
+
+
 
 <br><br>
 </div>
