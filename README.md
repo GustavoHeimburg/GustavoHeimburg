@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&theme=onedark&hide_border=true" />
 </div>
 <br><br>
-<a href="https://github.com/GustavoHeimburg" style="margin-top: 20px;"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" width=45%"></a>
+<a href="https://github.com/GustavoHeimburg" style="margin-top: 20px;"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" width=55%"></a>
 </p>
 
 
