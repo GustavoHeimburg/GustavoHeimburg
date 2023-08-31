@@ -62,7 +62,7 @@
 
   <img align="center" style="position: relative; top: -40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="400" align="right" alt="gif animado"></a>
 </p>
-<a href="https://github.com/GustavoHeimburg/WebSiteConstrução">
+<a href="https://github.com/GustavoHeimburg/WebSite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=WebSite&theme=onedark" />
 </a>
 </div>
