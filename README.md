@@ -1,13 +1,15 @@
 # Welcome to my git profile
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&theme=onedark&hide_border=true" />
-</div>
-<br><br>
-<a href="https://github.com/GustavoHeimburg" style="margin-top: 20px;"><img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" width=55%"></a>
+ <a href="https://github.com/pedlo07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=onedark" width="272" />
+</a>
+<a href="https://github.com/pedlo07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&layout=compact&show_icons=true&theme=onedark"width="280" />
+</a>
+<a href="https://github.com/pedlo07">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&show_icons=true&theme=onedark&date_format=j%20M%5B%20Y%5D" width="278" />
+</a>
 </p>
-
 
 
 <br><br>
@@ -44,17 +46,7 @@
 
 ***
 
-<h2>gaming platform</h2>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-  <img align="center" alt="spring" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
-</div>
-  
-    
 </div>
 
 ***
@@ -69,6 +61,10 @@
 <a href="https://github.com/GustavoHeimburg/WebSite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=WebSite&theme=onedark" />
 </a>
+<a href="https://github.com/GustavoHeimburg/GastronomiaWeb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=GastronomiaWeb&theme=onedark" />
+</a>
+
 </div>
 <br><br>
 
