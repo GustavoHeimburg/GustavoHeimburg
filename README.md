@@ -63,7 +63,7 @@
 <h2>My projects</h2>
 
 <a href="https://github.com/GustavoHeimburg/GastronomiaWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=GastronomiaWeb&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=SitePessoalFinal&theme=onedark" />
  <a href="https://github.com/GustavoHeimburg/JogodavelhaSpring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=JogodavelhaSpring&theme=onedark" />
 </a>
