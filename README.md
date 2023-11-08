@@ -48,16 +48,29 @@
 
 ***
 
-<div>
-<h3>Plataform gamming😵</h3>
-<img align="center" alt="Sub" src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
-<img align="center" alt="Sub" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
-<img align="center" alt="Sub" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"/>
-<img align="center" alt="Sub" src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/>
-<img align="center" alt="Sub" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+<center>
+  <ul>
+    <li>
+      <h3>Plataform gamming😵</h3>
+    </li>
+    <li>
+      <img alt="Sub" src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
+    </li>
+    <li>
+      <img alt="Sub" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
+    </li>
+    <li>
+      <img alt="Sub" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"/>
+    </li>
+    <li>
+      <img alt="Sub" src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/>
+    </li>
+    <li>
+      <img alt="Sub" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+    </li>
+  </ul>
+</center>
 
-
-</div>
 
 ***
   <img align="center" style="position: relative; top: -40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="400" align="right" alt="gif animado"></a>
