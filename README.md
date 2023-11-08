@@ -15,14 +15,14 @@
 
 <br><br>
 </div>
-<h2>My Contacts</h2> 
+<h2>My Contacts❄</h2> 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Guste.heimp)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l1nk.dev/ArwdC)
 
 ***
 
-<h2>languages</h2>
+<h2>languages🤖</h2>
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" />
@@ -38,7 +38,7 @@
 
 ***
 
-<h2>My IDEA's for programming</h2>
+<h2>My IDEA's for programming🧠</h2>
 
 <div>
   <img align="center" alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
