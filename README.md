@@ -15,12 +15,10 @@
 
 <br><br>
 </div>
-<h2>My networks</h2> 
+<h2>My Contacts</h2> 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Guste.heimp)
-[![Youtube](	https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UC_PXfmAnpPU1jAI4pQkvNog)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l1nk.dev/ArwdC)
-[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/gustavo-heimburg-pereira)
 
 ***
 
@@ -50,12 +48,18 @@
 
 ***
 
+<div>
+<h3>Plataform gamming😵</h3>
+<img align="center" alt="Sub" src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
+<img align="center" alt="Sub" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
+<img align="center" alt="Sub" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"/>
+<img align="center" alt="Sub" src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/>
+<img align="center" alt="Sub" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+
 
 </div>
 
 ***
-
-
   <img align="center" style="position: relative; top: -40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="400" align="right" alt="gif animado"></a>
 </p>
 
