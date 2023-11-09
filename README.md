@@ -87,7 +87,7 @@
 </p>
 
 ***
-<h2>projects</h2>
+<h2>Projects</h2>
 
 <a href="https://github.com/GustavoHeimburg/GastronomiaWeb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=FinalProjectSpring&theme=onedark" />
