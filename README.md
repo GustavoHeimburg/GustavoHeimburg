@@ -74,7 +74,7 @@
 ***
 
 <div>
-<h2 align="center">Hobies</h2>
+<h2 align="center">Hobbies</h2>
  <p>My daily hobbies are like... cool for my living. I love staying in my room programming, studying programming and always watching related videos. In other times, I like to play and organize myself in what I'm going to do and the day's tasks. I love spending time with my girlfriend and doing things together, these parts of life are really good, they're worth living, apart from that, the anxiety that comes with thinking about the future and the fear of knowing how I'm going to be scares me, but I believe that everything will work out, I'm planting it from the beginning...</p>
 </div>
 
