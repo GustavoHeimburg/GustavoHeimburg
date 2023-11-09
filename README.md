@@ -51,7 +51,7 @@
 <center>
   <ul>
     <li>
-      <h3>Plataform gamming🎮</h3>
+      <h2>Plataform gamming🎮</h2>
     </li>
     <li>
       <img alt="Sub" src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
