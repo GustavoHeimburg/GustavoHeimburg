@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br>
  <a href="https://github.com/GustavoHeimburg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=onedark" width="272" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=onedark" width="280" />
 </a>
 <a href="https://github.com/GustavoHeimburg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&layout=compact&show_icons=true&theme=onedark"width="300" />
