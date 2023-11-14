@@ -19,6 +19,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Guste.heimp)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l1nk.dev/ArwdC)
+[![E-mail](https://img.shields.io/badge/Email-me%40example.com-blue?style=flat-square&logo=gmail)](mailto:gutogustavogu@gmail.com)
+
 
 ***
 
