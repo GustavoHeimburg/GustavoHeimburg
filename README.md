@@ -38,13 +38,6 @@
   
 </div>
 
-***
-
-<h2>UI design templates🎨</h2>
-<img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-
-***
-
 <h2>IDEA's for programming🧠</h2>
 
 <div>
