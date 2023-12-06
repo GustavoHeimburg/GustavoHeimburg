@@ -89,7 +89,7 @@
 ***
 <h2>Projects</h2>
 
-<a href="https://github.com/GustavoHeimburg/GastronomiaWeb">
+<a href="https://github.com/GustavoHeimburg/CalculadoraPrestativaSpringBoot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=CalculadoraPrestativaSpringBoot&theme=onedark" />
  <a href="https://github.com/GustavoHeimburg/JogodavelhaSpring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=JogodavelhaSpring&theme=onedark" />
