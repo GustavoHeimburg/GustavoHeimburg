@@ -19,8 +19,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=GustavoHeimburg&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
-
-<br><br>
 </div>
 <h2>Contacts❄</h2> 
 
