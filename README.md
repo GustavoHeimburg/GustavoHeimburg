@@ -13,6 +13,8 @@
 <a href="https://github.com/GustavoHeimburg">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&show_icons=true&theme=onedark&date_format=j%20M%5B%20Y%5D" width="278" />
 </a>
+
+![](https://github-profile-trophy.vercel.app/?username=GustavoHeimburg&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
 
