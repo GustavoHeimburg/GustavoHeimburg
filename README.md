@@ -107,7 +107,7 @@
 </p>
 
 ***
-<h2>Projects</h2>
+<h2>Projects 🌟</h2>
 
 <a href="https://github.com/GustavoHeimburg/CalculadoraPrestativaSpringBoot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=CalculadoraPrestativaSpringBoot&theme=onedark" />
