@@ -37,10 +37,10 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="Node" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="Node" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img align="center" alt="Node" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
   <img align="center" alt="Node" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 </div>
 
@@ -54,8 +54,6 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img align="center" alt="Node" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-
-
 
 
 <h2>IDEA's for programming🧠</h2>
@@ -112,7 +110,7 @@
 </p>
 
 ***
-<h2>Projects 🌟</h2>
+<h2>Projects🌟</h2>
 
 <a href="https://github.com/GustavoHeimburg/CalculadoraPrestativaSpringBoot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHeimburg&repo=CalculadoraPrestativaSpringBoot&theme=onedark" />
