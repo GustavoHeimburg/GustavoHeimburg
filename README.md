@@ -100,7 +100,7 @@
 
 <div>
 <h2 align="center">Hobbies</h2>
- <p>My daily hobbies are like.. I love staying in my room programming, studying programming and always watching related videos. In other times, I like to play and organize myself in what I'm going to do and the day's tasks. I love spending time with my girlfriend and doing things together, these parts of life are really good, they're worth living, apart from that, the anxiety that comes with thinking about the future and the fear of knowing how I'm going to be scares me, but I believe that everything will work out, I'm planting it from the beginning. My favorite parts of programming are, node.js, database, javascript, java with spring for web back end.
+ <p>My daily hobbies are like this... I love spending time in my room programming, studying programming, and always watching related videos. At other times, I enjoy playing games and organizing myself for the day's tasks. I cherish spending time with my girlfriend and doing things together; these aspects of life are truly fulfilling. However, the anxiety that comes from thinking about the future and the fear of uncertainty about what lies ahead can be unsettling. Yet, I believe everything will work out; I've been sowing the seeds for success from the beginning. My favorite aspects of programming are Node.js, databases, JavaScript, and Java with Spring for web backend.
  </p>
 </div>
 
