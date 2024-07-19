@@ -1,7 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br>
-<img align="center" alt="GitHub" src="https://img.shields.io/github/followers/{GustavoHeimburg}.svg?style=social&label=GustavoHeimburg&maxAge=2592000"/>
 <br>
  <a href="https://github.com/GustavoHeimburg">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=onedark" width="280" />
@@ -12,11 +10,6 @@
 <a href="https://github.com/GustavoHeimburg">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&show_icons=true&theme=onedark&date_format=j%20M%5B%20Y%5D" width="278" />
 </a>
-
-</p>
-
-![](https://github-profile-trophy.vercel.app/?username=GustavoHeimburg&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-</p>
 
 </div>
 <h2>Contacts❄</h2> 
@@ -100,7 +93,7 @@
 
 <div>
 <h2 align="center">Hobbies</h2>
- <p>My daily hobbies are like this... I love spending time in my room programming, studying programming, and always watching related videos. At other times, I enjoy playing games and organizing myself for the day's tasks. I cherish spending time with my girlfriend and doing things together; these aspects of life are truly fulfilling. However, the anxiety that comes from thinking about the future and the fear of uncertainty about what lies ahead can be unsettling. Yet, I believe everything will work out; I've been sowing the seeds for success from the beginning. My favorite aspects of programming are Node.js, databases, JavaScript, and Java with Spring for web backend.
+ <p>My daily hobbies are like this... I love spending time in my room programming, studying programming, and always watching related videos. At other times, I enjoy playing games and organizing myself for the day's tasks. I cherish spending time with my girlfriend and doing things together; these aspects of life are truly fulfilling. However, the anxiety that comes from thinking about the future and the fear of uncertainty about what lies ahead can be unsettling. Yet, I believe everything will work out; I've been sowing the seeds for success from the beginning. My favorite aspects of programming are Node.js, databases, JavaScript, and Java with Spring for web backend. <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
  </p>
 </div>
 
