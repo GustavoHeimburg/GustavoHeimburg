@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Woibau;I'm+23+years+old;I+from+Brazil,+ES;Bachelor+in+Information+Systems;+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 <br>
  <a href="https://github.com/GustavoHeimburg">
@@ -118,5 +118,6 @@
 <br><br>
 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
 <br><br>
 
