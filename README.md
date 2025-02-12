@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Woibau;I'm+23+years+old;I+from+Brazil,+ES;Bachelor+in+Information+Systems;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gustavo+Heimburg;I'm+18+years+old;I+from+Brazil,+SC;+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 <br>
  <a href="https://github.com/GustavoHeimburg">
@@ -29,7 +29,8 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="Node" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge
+&logo=php&logoColor=white"/>
   <img align="center" alt="Node" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img align="center" alt="Node" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
   <img align="center" alt="Node" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -119,5 +120,4 @@
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
-<br><br>
 
