@@ -50,8 +50,6 @@ Seja bem-vindo ao meu perfil no GitHub!
 * Spring Boot
 * Node.js
 * Bootstrap
-* jQuery
-* Vite
 
 ---
 
