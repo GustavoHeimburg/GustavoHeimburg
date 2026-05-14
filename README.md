@@ -1,99 +1,126 @@
-# Olá, eu sou o Gustavo Heimburg
+<div align="center">
 
-🎂 19 anos
-📍 Santa Catarina — Brasil
-💻 Desenvolvedor focado em aplicações Web
+# Gustavo Heimburg
 
-Seja bem-vindo ao meu perfil no GitHub!
+Frontend Developer • UI Enthusiast • Web Experiences
 
----
+Desenvolvedor focado em criar aplicações modernas, rápidas e visualmente impactantes.
 
-## 📊 Estatísticas
+<br>
 
-<p align="center">
-  <img width="280" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=onedark" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&layout=compact&langs_count=7&theme=onedark" />
-  <img width="278" src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHeimburg&show_icons=true&theme=onedark&date_format=j%20M%5B%20Y%5D" />
-</p>
+<a href="https://portifolio-alpha-ashen-88.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/gustavo-heimburg-pereira-9b3771253/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 🌐 Contatos
+<a href="https://instagram.com/gustavo.heimp">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-📸 Instagram: [https://instagram.com/Guste.heimp](https://instagram.com/Guste.heimp)
-💼 LinkedIn: [https://l1nk.dev/ArwdC](https://l1nk.dev/ArwdC)
-
----
-
-## 🚀 Tecnologias
-
-### 👨‍💻 Linguagens
-
-* Java
-* JavaScript
-* HTML5
-* CSS3
-* Python
-* PHP
-* SQL
-
-### 🧰 Ferramentas
-
-* Git
-* Windows Terminal
-* MySQL
+</div>
 
 ---
 
-## ⚙️ Frameworks e Bibliotecas
+# Sobre mim
 
-* Spring Boot
-* Node.js
-* Bootstrap
+Tenho 19 anos e sou desenvolvedor apaixonado por design moderno, interfaces sofisticadas e experiências digitais premium.
 
----
+Atualmente foco no desenvolvimento frontend utilizando tecnologias modernas para construir aplicações rápidas, responsivas e com visual profissional.
 
-## 💻 IDEs e Ambientes de Desenvolvimento
-
-* IntelliJ IDEA
-* WebStorm
-* PyCharm
-* Visual Studio Code
-* MySQL Workbench
+Meu objetivo é criar produtos que transmitam valor logo no primeiro contato.
 
 ---
 
-## ⭐ Projetos em Destaque
+# Tech Stack
 
-### 🧮 Calculadora Financeira com Spring Boot
+<div align="center">
 
-Sistema web para cálculos financeiros desenvolvido com Java e Spring Boot.
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,php,java,python,mysql,git,figma,vscode" />
 
-🔗 [https://github.com/GustavoHeimburg/CalculadoraPrestativaSpringBoot](https://github.com/GustavoHeimburg/CalculadoraPrestativaSpringBoot)
-
-### ❌⭕ Jogo da Velha com Spring
-
-Jogo da velha online utilizando arquitetura MVC com Java e Spring.
-
-🔗 [https://github.com/GustavoHeimburg/JogodavelhaSpring](https://github.com/GustavoHeimburg/JogodavelhaSpring)
+</div>
 
 ---
 
-## 🧠 Sobre Mim
+# Estatísticas
 
-Atuo no desenvolvimento web full stack, com foco em backend e bancos de dados. Trabalho com PHP, Java (Spring) e MySQL, criando aplicações web eficientes e bem estruturadas.
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" />
 
-## 🎯 Objetivos Profissionais
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa" />
 
-* Atuar com desenvolvimento de sistemas web
-* Trabalhar com backend e bancos de dados
-* Criar soluções eficientes para empresas locais
-* Evoluir para me tornar desenvolvedor full stack
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
-</p>
+# Projetos em destaque
+
+## LISSE LASER
+
+Sistema completo de vendas online com:
+- gerenciamento de produtos
+- checkout integrado
+- interface moderna
+- foco em conversão
+
+### Tecnologias
+`PHP` `JavaScript` `Tailwind CSS`
+
+🔗 https://lisselaser.com.br
+
+---
+
+## Pervoi Pizzaria
+
+Landing page moderna desenvolvida com foco em identidade visual premium e experiência do usuário.
+
+### Tecnologias
+`Next.js` `TypeScript` `Tailwind CSS`
+
+🔗 https://pizzariapervoi.vercel.app/
+
+---
+
+## Portfólio Pessoal
+
+Meu portfólio desenvolvido para apresentar projetos, habilidades e identidade visual como desenvolvedor frontend.
+
+### Tecnologias
+`Next.js` `React` `Tailwind CSS`
+
+🔗 https://portifolio-alpha-ashen-88.vercel.app/
+
+---
+
+# Objetivos
+
+- Evoluir constantemente como frontend engineer
+- Criar interfaces cada vez mais premium
+- Trabalhar em produtos digitais modernos
+- Construir experiências web memoráveis
+
+---
+
+# Contato
+
+📩 Email: **gutogustavogu@gmail.com**
+
+🌎 Portfolio:  
+https://portifolio-alpha-ashen-88.vercel.app/
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/gustavo-heimburg-pereira-9b3771253/
+
+📸 Instagram:  
+https://instagram.com/gustavo.heimp
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer"/>
+
+</div>
