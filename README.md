@@ -1,12 +1,21 @@
+
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Gustavo+Heimburg;Frontend+Developer;UI%2FUX+Enthusiast;Building+Modern+Web+Experiences" />
+
+<br><br>
 
 # Gustavo Heimburg
 
-Frontend Developer • UI Enthusiast • Web Experiences
+### Frontend Developer • UI Enthusiast • Web Experiences
 
 Desenvolvedor focado em criar aplicações modernas, rápidas e visualmente impactantes.
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=GustavoHeimburg&style=for-the-badge&color=0e75b6" />
+
+<br><br>
 
 <a href="https://portifolio-alpha-ashen-88.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
@@ -48,9 +57,35 @@ Meu objetivo é criar produtos que transmitam valor logo no primeiro contato.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://streak-stats.demolab.com?user=GustavoHeimburg&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoHeimburg&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GustavoHeimburg&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -58,7 +93,7 @@ Meu objetivo é criar produtos que transmitam valor logo no primeiro contato.
 
 # Projetos em destaque
 
-## LISSE LASER
+## 🚀 LISSE LASER
 
 Sistema completo de vendas online com:
 - gerenciamento de produtos
@@ -73,7 +108,7 @@ Sistema completo de vendas online com:
 
 ---
 
-## Pervoi Pizzaria
+## 🍕 Pervoi Pizzaria
 
 Landing page moderna desenvolvida com foco em identidade visual premium e experiência do usuário.
 
@@ -84,7 +119,7 @@ Landing page moderna desenvolvida com foco em identidade visual premium e experi
 
 ---
 
-## Portfólio Pessoal
+## 💼 Portfólio Pessoal
 
 Meu portfólio desenvolvido para apresentar projetos, habilidades e identidade visual como desenvolvedor frontend.
 
@@ -101,6 +136,16 @@ Meu portfólio desenvolvido para apresentar projetos, habilidades e identidade v
 - Criar interfaces cada vez mais premium
 - Trabalhar em produtos digitais modernos
 - Construir experiências web memoráveis
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
