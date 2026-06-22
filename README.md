@@ -107,7 +107,7 @@ Meu portfólio desenvolvido para apresentar projetos, habilidades e identidade v
 ### Tecnologias
 `Next.js` `React` `Tailwind CSS`
 
-🔗 https://portifolio-alpha-ashen-88.vercel.app/
+🔗 https://gusteheimp.vercel.app/
 
 ---
 
