@@ -1,152 +1,310 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Gustavo+Heimburg;Frontend+Developer;UI%2FUX+Enthusiast;Building+Modern+Web+Experiences" />
-
-<br><br>
-
-# Gustavo Heimburg
-
-### Frontend Developer • UI Enthusiast • Web Experiences
-
-Desenvolvedor focado em criar aplicações modernas, rápidas e visualmente impactantes.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=900&lines=Gustavo+Heimburg;Frontend+Engineer;Python+Automation+Developer;Building+Modern+Digital+Experiences" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=GustavoHeimburg&style=for-the-badge&color=0e75b6" />
+# 👋 Gustavo Heimburg
+
+### Frontend Engineer • Python Automation • Full Stack Developer
+
+Desenvolvendo interfaces modernas, sistemas inteligentes e automações com IA para transformar processos em soluções eficientes.
+
+<img src="https://komarev.com/ghpvc/?username=GustavoHeimburg&style=for-the-badge&color=61DAFB"/>
 
 <br><br>
 
-<a href="https://portifolio-alpha-ashen-88.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
+<a href="https://gusteheimp.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gustavo-heimburg-pereira-9b3771253/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/gustavo.heimp">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="mailto:gutogustavogu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# Sobre mim
+# 🚀 Sobre mim
 
-Tenho 19 anos e sou desenvolvedor apaixonado por design moderno, interfaces sofisticadas e experiências digitais premium.
+```javascript
+const gustavo = {
+    age: 19,
+    country: "Brazil 🇧🇷",
 
-Atualmente foco no desenvolvimento frontend utilizando tecnologias modernas para construir aplicações rápidas, responsivas e com visual profissional.
+    role: [
+        "Frontend Developer",
+        "Python Automation Developer",
+        "Full Stack Developer"
+    ],
 
-Meu objetivo é criar produtos que transmitam valor logo no primeiro contato.
+    passions: [
+        "Modern UI",
+        "Artificial Intelligence",
+        "Automation",
+        "Performance",
+        "User Experience"
+    ],
+
+    currentlyWorkingOn: [
+        "Python + AI Automation",
+        "Frontend Applications",
+        "Corporate Systems"
+    ]
+}
+```
+
+Sou apaixonado por criar produtos digitais que unem **design moderno**, **performance** e **automação inteligente**.
+
+Tenho experiência no desenvolvimento de aplicações web, sistemas corporativos e soluções de automação utilizando **Python**, **Inteligência Artificial** e integração com APIs.
+
+Meu objetivo é desenvolver softwares que realmente economizem tempo e entreguem valor para empresas.
 
 ---
 
-# Tech Stack
+# ⚡ Tech Stack
 
-<div align="center">
+## 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,php,java,python,mysql,git,figma,vscode" />
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,figma" />
+
+</p>
 
 ---
 
-# Estatísticas
+## ⚙ Backend
 
-<br>
+<p align="center">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,php,java,spring,python,mysql" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=GustavoHeimburg&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+---
 
-<br>
+## 🛠 Ferramentas
 
-<div align="center">
+<p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoHeimburg&theme=tokyo-night&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
-</div>
+</p>
 
+---
 
-# Projetos em destaque
+# 🤖 Python Automation
 
-## 🚀 LISSE LASER
+Especializado em automação de processos utilizando Python.
 
-Sistema completo de vendas online com:
-- gerenciamento de produtos
-- checkout integrado
-- interface moderna
-- foco em conversão
+### Desenvolvimento de soluções como:
 
-### Tecnologias
-`PHP` `JavaScript` `Tailwind CSS`
+- 📄 Leitura inteligente de PDFs
+- 🤖 Integração com IA (OpenAI / Gemini)
+- 📊 Automação de planilhas Excel
+- 📑 Extração de dados estruturados
+- 🔄 Processos corporativos
+- 📈 Geração automática de relatórios
+- 🌐 Integração com APIs
+- ⚡ Automação de tarefas repetitivas
+
+### Bibliotecas
+
+```text
+Pandas
+OpenPyXL
+PyMuPDF
+pdfplumber
+Requests
+Flask
+FastAPI
+OpenAI API
+Gemini API
+```
+
+---
+
+# 🚀 Projetos
+
+## 🤖 Engenharia + Inteligência Artificial
+
+Sistema desenvolvido para engenharia capaz de:
+
+✔ Interpretar documentos técnicos
+
+✔ Ler PDFs automaticamente
+
+✔ Utilizar IA para compreender informações
+
+✔ Gerar JSON estruturado
+
+✔ Preencher planilhas Excel automaticamente
+
+**Tecnologias**
+
+`Python`
+`Gemini`
+`OpenAI`
+`Pandas`
+`OpenPyXL`
+`PyMuPDF`
+
+---
+
+## 💎 Lisse Laser
+
+Sistema completo para vendas online.
+
+### Funcionalidades
+
+- Painel Administrativo
+- Cadastro de Produtos
+- Checkout
+- Interface Responsiva
+- Landing Page Premium
+
+**Tecnologias**
+
+`PHP`
+`JavaScript`
+`Tailwind CSS`
 
 🔗 https://lisselaser.com.br
 
 ---
 
-## 🍕 Pervoi Pizzaria
+## 🍕
 
-Landing page moderna desenvolvida com foco em identidade visual premium e experiência do usuário.
+### Pervoi Pizzaria
 
-### Tecnologias
-`Next.js` `TypeScript` `Tailwind CSS`
+Landing Page moderna desenvolvida com foco em experiência do usuário.
+
+Tecnologias
+
+`Next.js`
+
+`TypeScript`
+
+`Tailwind CSS`
 
 🔗 https://pizzariapervoi.vercel.app/
 
 ---
 
-## 💼 Portfólio Pessoal
+## 🌎 Portfólio
 
-Meu portfólio desenvolvido para apresentar projetos, habilidades e identidade visual como desenvolvedor frontend.
+Meu portfólio pessoal desenvolvido para apresentar meus projetos e identidade visual.
 
-### Tecnologias
-`Next.js` `React` `Tailwind CSS`
+Tecnologias
 
-🔗 https://gusteheimp.vercel.app/
+`React`
 
----
+`Next.js`
 
-# Objetivos
+`Tailwind CSS`
 
-- Evoluir constantemente como frontend engineer
-- Criar interfaces cada vez mais premium
-- Trabalhar em produtos digitais modernos
-- Construir experiências web memoráveis
+🔗 https://gusteheimp.vercel.app
 
 ---
 
-# Contribution Snake
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GustavoHeimburg&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHeimburg&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=GustavoHeimburg&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoHeimburg&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# Contato
-
-📩 Email: **gutogustavogu@gmail.com**
-
-🌎 Portfolio:  
-https://portifolio-alpha-ashen-88.vercel.app/
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/gustavo-heimburg-pereira-9b3771253/
-
-📸 Instagram:  
-https://instagram.com/gustavo.heimp
-
----
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GustavoHeimburg&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🎯 Atualmente
+
+- 🚀 Desenvolvendo aplicações Frontend modernas
+- 🤖 Criando automações corporativas com Python
+- 🧠 Integrando Inteligência Artificial em processos empresariais
+- 💻 Aprimorando conhecimentos em Backend
+- ☁ Explorando arquiteturas escaláveis e APIs
+
+---
+
+# 📈 Áreas de Interesse
+
+<div align="center">
+
+| Frontend | Backend | Python | IA | UI/UX |
+|:---------:|:--------:|:------:|:--:|:----:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📬 Vamos conversar?
+
+<div align="center">
+
+<a href="https://gusteheimp.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gustavo-heimburg-pereira-9b3771253/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:gutogustavogu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=140&section=footer"/>
 
 </div>
